@@ -3,3 +3,6 @@ public class basicCode{
         System.out.println("hiiii");
     }
 }
+// https://a.com/b.png
+
+// file:///a/b.jpg
